@@ -1,0 +1,8 @@
+neovim
+zsh
+tmux
+stow
+git
+openssh
+xclip
+ttf-firacode-nerd
