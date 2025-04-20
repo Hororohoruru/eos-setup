@@ -8,3 +8,4 @@ xclip
 ttf-firacode-nerd
 fzf
 zoxide
+neofetch
