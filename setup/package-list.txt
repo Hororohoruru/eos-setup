@@ -9,3 +9,4 @@ ttf-firacode-nerd
 fzf
 zoxide
 neofetch
+chntpw
