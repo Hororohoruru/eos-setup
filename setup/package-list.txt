@@ -6,3 +6,5 @@ git
 openssh
 xclip
 ttf-firacode-nerd
+fzf
+zoxide
