@@ -27,7 +27,6 @@ read -p "Enter your Git email: " git_email
 # Set Git config with the provided values
 git config --global user.name "$git_username"
 git config --global user.email "$git_email"
-git config --global core.editor "nvim"
 
 echo "[*] Git configuration set:"
 git config --global user.name

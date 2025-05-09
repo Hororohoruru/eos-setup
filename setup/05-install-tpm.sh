@@ -3,7 +3,7 @@ set -e
 
 echo "[*] Installing TPM (Tmux Plugin Manager)..."
 
-TPM_DIR="$HOME/.tmux/plugins/tpm"
+TPM_DIR="$HOME/.config/tmux/plugins/tpm"
 
 if [ -d "$TPM_DIR" ]; then
   echo "[✓] TPM already installed at $TPM_DIR"
